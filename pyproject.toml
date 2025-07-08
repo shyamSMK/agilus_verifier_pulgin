@@ -7,7 +7,7 @@ name = "plugin-mobile-verifier"
 version = "0.1.0"
 description = "Verifying a valid mobile number"
 readme = "README.md"
-authors = [{ name = "Rahul C", email = "rahulc@gmail.com" }]
+authors = [{ name = "saikiran", email = "saikiran@gmail.com" }]
 license = { file = "LICENSE.txt" }
 requires-python = ">=3.10"
 dependencies = []
